@@ -1,6 +1,6 @@
 import java.time.Instant;
 
-public class lesson_14_50 {
+public class lesson_17_50 {
     //Класс Instant
 
     //В Date Time API добавили класс Instant для работы со временем, нацеленным на процессы внутри компьютеров.
